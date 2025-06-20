@@ -43,9 +43,7 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 # Alternatively, use `google-scholar` icon from `ai` icon pack
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:	slafon@phare.normalesup.org
+  - link: mailto:	slafon@phare.normalesup.org
   - icon: github
     icon_pack: fab
     link: https://github.com/suzannelafon
