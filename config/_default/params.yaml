@@ -18,7 +18,7 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'Personal page'
-    twitter: 'Gravellesimon'
+    #twitter: 'Gravellesimon'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -73,7 +73,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/simongravelle/simongravelle.github.io'
+    url: 'https://slafon11.github.io/'
     content_dir: content
     branch: master
   avatar:
