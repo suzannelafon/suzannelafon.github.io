@@ -36,7 +36,28 @@ education:
     - course: PhD in Soft Matter
       institution: Paris-Saclay University (France)
       year: 2023
-      
+
+# Social/Academic Networking
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+# Alternatively, use `google-scholar` icon from `ai` icon pack
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:slafon@phare.normalesup.org
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/slafon11
+    display:
+      header: true
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=tES_b6oAAAAJ&hl=fr
+  - icon: cv
+    icon_pack: ai
+    link: files/resume/resume-suzanne-lafon.pdf
+
 highlight_name: true # Highlight the author in author lists? (true/false)
 ---
 
