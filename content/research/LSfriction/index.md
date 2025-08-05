@@ -25,4 +25,9 @@ layout: "single"
 
 Unveiling the mechanisms underlying friction at the solid/liquid interface.
 
-This is an equation: \(E = mc^2 \)
+This is an equation: $E = mc^{2}$.
+
+This is another :
+$$
+E = m c ^{2}
+$$
