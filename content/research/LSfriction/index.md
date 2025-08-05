@@ -11,10 +11,10 @@ tags:
 - Personal
 title: Liquid/Solid Friction
 links:
-#  - icon_pack: fab
-#    icon: github
-#    name: Sasha's GitHub
-#    url: 'https://github.com/ardashka'
+  - icon_pack: fas
+    icon: graduation-cap
+    name: My PhD thesis
+    url: 'https://theses.fr/2023UPASP144'
 #  - icon_pack: ai
 #    icon: google-scholar
 #    name: Sasha's Scholar
