@@ -6,7 +6,7 @@ image:
   caption: Confined ions dynamics
   focal_point: Smart
 slides: example
-summary:
+summary: Combining rheology, EIS and QENS, we study the role of shearing a soft nanostructured polymer matrix on the dynamics of confined ionic liquids.
 tags:
 - Personal
 title: Dynamics of Confined Ions
