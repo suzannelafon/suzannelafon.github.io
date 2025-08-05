@@ -6,15 +6,15 @@ image:
   caption: Separation of a chiral molecule by a cellulose derivative
   focal_point: Smart
 slides: example
-summary:
+summary: Understanding the selectivity of chiral membranes to chiral molecules.
 tags:
 - Personal
 title: Chiral separation by chiral structures
 links:
-#  - icon_pack: fas
-#    icon: globe
-#    name: Benoit Coasne's website
-#    url: 'https://benoitcoasne.github.io/'
+  - icon_pack: fas
+    icon: globe
+    name: Benoit Coasne's website
+    url: 'https://benoitcoasne.github.io/'
 #  - icon_pack: ai
 #    icon: google-scholar
 #    name: Sasha's Scholar
