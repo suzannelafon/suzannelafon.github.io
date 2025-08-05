@@ -1,6 +1,6 @@
 ---
-date: 2025-05-01
-publishDate: 2025-05-01
+date: 2025-08-05
+publishDate:
 external_link: ""
 image:
   caption: Liquid Solid friction
