@@ -19,7 +19,7 @@ links:
     icon: book
     name: MD simulations
     url: 'https://journals.aps.org/pre/abstract/10.1103/PhysRevE.107.025101'
-  - icon_pack fas
+  - icon_pack: fas
     icon: book
     name: Neutron reflectivity
     url: 'https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.4c04005'
