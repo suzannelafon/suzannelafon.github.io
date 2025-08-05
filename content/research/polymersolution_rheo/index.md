@@ -6,10 +6,10 @@ image:
   caption:
   focal_point: Smart
 slides: example
-summary: Rheology of polymer solutions
+summary: We study the link between the viscosity and the concentration of semi-dilute entangled polymer solutions in a good solvent.
 tags:
 - Personal
-title: Liquid/Solid Friction
+title: Rheology of polymer solutions
 links:
   - icon_pack: fas
     icon: graduation-cap
@@ -25,7 +25,7 @@ layout: "single"
 
 We explore the rheology of semi-dilute entangled polymer solutions in a good solvent as a function of temperature. In particular, we look at the link between the viscosity $\eta$ and the volume fraction $\phi$ of the polymer solution.
 
-The viscosity is expected to obey to De Gennes' prediction:
+The viscosity is expected to obey to [De Gennes' prediction](https://pubs.acs.org/doi/10.1021/ma60052a011):
 
 $$
 \eta(\phi) = \eta_{solvent} N^{3} \phi^{15/4}
