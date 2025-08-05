@@ -38,4 +38,4 @@ In this figure, we gather results from various publications (solutions in t-deca
 in benzene from [Raspaud *et al.*](https://pubs.acs.org/doi/10.1021/ma00108a020), in DEP from [Sanchez-Reyes *et al.*](https://pubs.acs.org/doi/10.1021/la0265326) for $T = 301$ K
 and from us for the rest of the data).
 
-It is observed that as the solution approaches its glass transition, the deviation of the exponent $\alpha$ increases.
+We observed that as the solution approaches its glass transition, the deviation of the exponent $\alpha$ increases.
