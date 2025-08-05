@@ -14,7 +14,7 @@ links:
   - icon_pack: fas
     icon: globe
     name: Patrick Judeinstein's website
-    url: 'https://patoo.hope.free.fr'
+    url: 'http://patoo.hope.free.fr'
 #  - icon_pack: ai
 #    icon: google-scholar
 #    name: Sasha's Scholar
