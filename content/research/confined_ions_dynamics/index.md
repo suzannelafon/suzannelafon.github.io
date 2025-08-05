@@ -3,13 +3,13 @@ date: 2025-08-05
 publishDate:
 external_link: ""
 image:
-  caption: Liquid Solid friction
+  caption: Confined ions dynamics
   focal_point: Smart
 slides: example
 summary:
 tags:
 - Personal
-title: Liquid/Solid friction
+title: Dynamics of Confined Ions
 links:
 #  - icon_pack: fab
 #    icon: github
@@ -23,4 +23,4 @@ type: "research"
 layout: "single"
 ---
 
-Unveiling the mechanisms underlying friction at the solid/liquid interface.
+Understanding the effect of confinement on the dynamics of ions.
