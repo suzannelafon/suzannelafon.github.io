@@ -26,4 +26,4 @@ layout: "single"
 Understanding the selectivity of chiral membranes to chiral molecules. Separation of chiral molecules is a big challenge, in particular for the pharmaceutical industry. 
 Membranes based on cellulose derivatives are good technologies to separate many chiral molecules. We use Molecular Dynamics (MD) simulations to unveil the molecular mechanisms which allows such a good selectivity.
 This is part of the CHIRAL CELL ANR, in collaboration with
-<a href="https://benoitcoasne.github.io/" target="_blank">Benoit Coasne</a>.
+<a href="https://benoitcoasne.github.io/" target="_blank" style="text-decoration: none">Benoit Coasne</a>.
