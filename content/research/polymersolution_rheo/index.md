@@ -3,7 +3,7 @@ date: 2025-08-05
 publishDate:
 external_link: ""
 image:
-  caption: Parameter $\alpha$ as a function of temperature for various semi-dilute entangled polymer solutions. $T_{g}$ is the glass transition temperature of the solution.
+  caption: $\alpha$ parameter.
   focal_point: Smart
 slides: example
 summary: We study the link between the viscosity and the concentration of semi-dilute entangled polymer solutions in a good solvent.

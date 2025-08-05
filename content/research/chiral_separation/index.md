@@ -6,7 +6,7 @@ image:
   caption: Separation of a chiral molecule by a cellulose derivative
   focal_point: Smart
 slides: example
-summary: Understanding the selectivity of chiral membranes to chiral molecules.
+summary: Investigating the selectivity of chiral membranes for chiral molecules.
 tags:
 - Personal
 title: Chiral separation by chiral structures
@@ -23,6 +23,9 @@ type: "research"
 layout: "single"
 ---
 
-Understanding the selectivity of chiral membranes to chiral molecules. Separation of chiral molecules is a big challenge, in particular for the pharmaceutical industry. 
-Membranes based on cellulose derivatives are good technologies to separate many chiral molecules. We use Molecular Dynamics (MD) simulations to unveil the molecular mechanisms which allows such a good selectivity.
+Understanding the selectivity of chiral membranes to chiral molecules. Separation of chiral molecules is a major challenge, since enantiomers have very similar chemical properties.
+In particular, there is always a compromise between good selecivity and quick process. 
+ 
+Membranes based on cellulose derivatives are good technologies to separate many chiral molecules.
+We use force-field Molecular Dynamics (MD) simulations to unveil the molecular mechanisms which allows such a good selectivity.
 This is part of the CHIRAL CELL ANR, in collaboration with Benoit Coasne.
