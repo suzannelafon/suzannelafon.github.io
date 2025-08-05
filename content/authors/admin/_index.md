@@ -78,3 +78,11 @@ This is part of the CHIRAL CELL ANR project, in colloration with Benoit Coasne, 
  
   - dynamics of confined ionic liquids in a sheared polymer matrix: coupling rheology, electric conductivity and measurement of diffusion (quasi-elastic neutron scattering and NMR),
 we study the role of shear in the dynamics of confined ionic liquids. This project is part of the SESAME ANR project, in collaboration with Hakima Mendil-Jakani and Marie Plazanet.
+
+<span style="display: block; height: 8px;"></span>
+
+
+### Call for data ##
+
+I am currently developing an analysis to extract slip lengths and liquid/solid friction coefficients from shear rheology experiments, especially in the plate geometry.
+If you have data from which you would like to extract this kind of parameters, feel free to contact me!
