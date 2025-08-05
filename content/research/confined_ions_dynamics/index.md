@@ -22,5 +22,5 @@ links:
 type: "research"
 layout: "single"
 ---
-
-Understanding the effect of confinement on the dynamics of ions.
+Coupling rheology, electric conductivity and measurement of diffusion (quasi-elastic neutron scattering and NMR),
+we study the role of shear in the dynamics of confined ionic liquids. This project is part of the SESAME ANR project, in collaboration with Hakima Mendil-Jakani and Marie Plazanet.

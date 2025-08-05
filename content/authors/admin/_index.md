@@ -73,11 +73,9 @@ the LIPhy institute in Grenoble, France.
 
 I am currently part of two projects:
 
-  - chiral separation by chiral structures: a Molecular Dynamics project to understand the mechanisms of chiral separation by a helicoidal (and thus chiral) molecule.
-This is part of the CHIRAL CELL ANR project, in colloration with Benoit Coasne, Issei Otsuka and Yoshiharu Nishiyama.
+  - [chiral separation by chiral structures](https://suzannelafon.github.io/research/chiral_separation.html)
  
-  - dynamics of confined ionic liquids in a sheared polymer matrix: coupling rheology, electric conductivity and measurement of diffusion (quasi-elastic neutron scattering and NMR),
-we study the role of shear in the dynamics of confined ionic liquids. This project is part of the SESAME ANR project, in collaboration with Hakima Mendil-Jakani and Marie Plazanet.
+  - [dynamics of confined ionic liquids in a sheared polymer matrix](https://suzannelafon.github.io/research/confined_ions_dynamics.html)
 
 <span style="display: block; height: 8px;"></span>
 
