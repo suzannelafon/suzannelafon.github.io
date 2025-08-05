@@ -23,4 +23,4 @@ type: "research"
 layout: "single"
 ---
 
-Using STRAFI-NMR, we explore the peculiar dynamics of water in highly concentrated salts. Water diffusion can be either enhanced or reduced depending on the salts, following the Hofmeister serie.
+Using STRAFI-NMR, we explore the peculiar dynamics of water in highly concentrated salts.
