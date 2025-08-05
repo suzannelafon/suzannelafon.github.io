@@ -9,7 +9,7 @@ slides: example
 summary:
 tags:
 - Personal
-title: Dynamis of water in concentrated salts
+title: Dynamics of water in concentrated salts
 links:
 #  - icon_pack: fab
 #    icon: github
