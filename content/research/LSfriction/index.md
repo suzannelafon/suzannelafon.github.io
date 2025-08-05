@@ -6,7 +6,7 @@ image:
   caption: Credits to J. D. Steenkamp (2015)
   focal_point: Smart
 slides: example
-summary:
+summary: Unveiling the mechanisms underlying friction at the solid/liquid interface.
 tags:
 - Personal
 title: Liquid/Solid Friction
@@ -24,3 +24,5 @@ layout: "single"
 ---
 
 Unveiling the mechanisms underlying friction at the solid/liquid interface.
+
+This is an equation: \(E = mc^2 \)
