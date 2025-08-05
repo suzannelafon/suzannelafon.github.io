@@ -3,7 +3,7 @@ date: 2025-08-05
 publishDate:
 external_link: ""
 image:
-  caption: Liquid Solid friction
+  caption: Credits to J. D. Steenkamp (2015)
   focal_point: Smart
 slides: example
 summary:
