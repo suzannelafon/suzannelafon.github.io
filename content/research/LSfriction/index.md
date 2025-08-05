@@ -9,7 +9,7 @@ slides: example
 summary:
 tags:
 - Personal
-title: Liquid/Solid friction
+title: Liquid/Solid Friction
 links:
 #  - icon_pack: fab
 #    icon: github
