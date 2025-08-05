@@ -68,3 +68,13 @@ the LIPhy institute in Grenoble, France.
 
 <span style="display: block; height: 8px;"></span>
 
+
+### My current projects ##
+
+I am currently part of two projects:
+
+  - chiral separation by chiral structures: a Molecular Dynamics project to understand the mechanisms of chiral separation by a helicoidal (and thus chiral) molecule.
+This is part of the CHIRAL CELL ANR project, in colloration with Benoit Coasne, Issei Otsuka and Yoshiharu Nishiyama.
+ 
+  - dynamics of confined ionic liquids in a sheared polymer matrix: coupling rheology, electric conductivity and measurement of diffusion (quasi-elastic neutron scattering and NMR),
+we study the role of shear in the dynamics of confined ionic liquids. This project is part of the SESAME ANR project, in collaboration with Hakima Mendil-Jakani and Marie Plazanet.
