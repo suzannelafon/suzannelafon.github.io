@@ -15,10 +15,10 @@ links:
     icon: graduation-cap
     name: My PhD thesis
     url: 'https://theses.fr/2023UPASP144'
-#  - icon_pack: ai
-#    icon: google-scholar
-#    name: Sasha's Scholar
-#    url: 'https://scholar.google.co.uk/citations?user=hNvC4rUAAAAJ&hl=en'
+  - icon_pack: fas
+    icon: book
+    name: MD simulations
+    url: 'https://journals.aps.org/pre/abstract/10.1103/PhysRevE.107.025101'
 type: "research"
 layout: "single"
 ---
