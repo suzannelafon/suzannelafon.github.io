@@ -16,9 +16,9 @@ links:
 #    name: Sasha's GitHub
 #    url: 'https://github.com/ardashka'
 #  - icon_pack: ai
-    icon: google-scholar
-    name: Patrick Judeinstein's website
-    url: 'http://patoo.hope.free.fr/'
+#    icon: google-scholar
+#    name: Patrick Judeinstein's website
+#    url: 'http://patoo.hope.free.fr/'
 type: "research"
 layout: "single"
 ---
