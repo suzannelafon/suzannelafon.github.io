@@ -1,5 +1,5 @@
 ---
-date: 2025-08-05
+date: 2025-08-04
 publishDate:
 external_link: ""
 image:
