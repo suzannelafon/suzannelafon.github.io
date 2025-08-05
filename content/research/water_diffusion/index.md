@@ -11,10 +11,10 @@ tags:
 - Personal
 title: Dynamics of water in concentrated salts
 links:
-#  - icon_pack: fab
-#    icon: github
-#    name: Sasha's GitHub
-#    url: 'https://github.com/ardashka'
+  - icon_pack: fas
+    icon: globe
+    name: Patrick Judeinstein's website
+    url: 'https://patoo.hope.free.fr'
 #  - icon_pack: ai
 #    icon: google-scholar
 #    name: Sasha's Scholar
