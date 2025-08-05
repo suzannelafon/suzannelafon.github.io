@@ -9,7 +9,7 @@ slides: example
 summary:
 tags:
 - Personal
-title: Creation of the personal website
+title: Creation of my personal website
 type: "news"
 layout: "single"
 ---
