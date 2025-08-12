@@ -27,5 +27,5 @@ Understanding the selectivity of chiral membranes to chiral molecules. Separatio
 In particular, there is always a compromise between good selecivity and quick process. 
  
 Membranes based on cellulose derivatives are good technologies to separate many chiral molecules.
-We use force-field Molecular Dynamics (MD) simulations to unveil the molecular mechanisms which allows such a good selectivity.
+We use force-field Molecular Dynamics (MD) simulations to unveil the molecular mechanisms which allow such a good selectivity.
 This is part of the CHIRAL CELL ANR, in collaboration with Benoit Coasne.
