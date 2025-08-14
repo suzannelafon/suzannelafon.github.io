@@ -13,6 +13,13 @@ main:
   - name: Research
     url: '#research'
     weight: 30
+    children:
+      - name: Liquids near solid surfaces
+        url: '#LSinterfaces'
+        weight: 1
+      - name: Dynamics of liquids
+        url: '#liquidsdynamics'
+        weight: 2
   - name: Publications
     url: '#publications'
     weight: 40
