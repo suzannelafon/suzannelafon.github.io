@@ -10,16 +10,20 @@ main:
   - name: News
     url: '#news'
     weight: 20
-  - name: Research
+  - identifier: research
+    name: Research
     url: '#research'
     weight: 30
-    children:
-       - name: Projects
-         url: '/index.htm'
-         weight: 1
-       - name: Collaborations
-         url: '/index.htm'
-         weight: 2
+  - name: Projects
+    parent: research
+    url: '#projects'
+    #children:
+    #   - name: Projects
+    #     url: '/index.htm'
+    #     weight: 1
+    #   - name: Collaborations
+    #     url: '/index.htm'
+    #     weight: 2
   - name: Publications
     url: '#publications'
     weight: 40

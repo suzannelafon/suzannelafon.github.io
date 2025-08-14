@@ -27,4 +27,4 @@ type: "research"
 layout: "single"
 ---
 
-Unveiling the mechanisms underlying friction at the solid/liquid interface.
+Unveiling the mechanisms underlying friction at the solid/liquid interface...
