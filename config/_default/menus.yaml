@@ -14,16 +14,9 @@ main:
     name: Research
     url: '#research'
     weight: 30
-  - name: Projects
-    parent: research
-    url: '#projects'
-    #children:
-    #   - name: Projects
-    #     url: '/index.htm'
-    #     weight: 1
-    #   - name: Collaborations
-    #     url: '/index.htm'
-    #     weight: 2
+ # - name: Projects
+ #   parent: research
+ #   url: '#projects'
   - name: Publications
     url: '#publications'
     weight: 40

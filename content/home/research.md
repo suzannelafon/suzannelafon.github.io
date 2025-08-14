@@ -1,7 +1,7 @@
 ---
 active: true
 widget: portfolio
-headless: true
+headless: false
 weight: 30
 title: Research
 subtitle: ''
