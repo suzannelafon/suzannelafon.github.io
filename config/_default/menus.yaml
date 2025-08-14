@@ -15,10 +15,10 @@ main:
     weight: 30
     children:
        - name: Projects
-         url: '#projects'
+         url: '/index.htm'
          weight: 1
        - name: Collaborations
-         url: '#ccollaborations'
+         url: '/index.htm'
          weight: 2
   - name: Publications
     url: '#publications'
