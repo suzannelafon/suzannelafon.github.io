@@ -3,10 +3,10 @@ date: 2025-08-02
 publishDate:
 external_link: ""
 image:
-  caption: Spontaneous emulsification at the water/oil interface
+  caption:
   focal_point: Smart
 slides: example
-summary:
+summary: Spontaneous emulsification at the water/oil interface
 tags:
 - Personal
 title: Spontaneous emulsification at the water/oil interface
