@@ -281,3 +281,13 @@ h2, h3 {
   }
 }
 }
+
+/* Empêche le contenu d'être masqué sous la navbar fixe */
+body {
+  padding-top: 70px; /* Ajuste cette valeur selon la hauteur exacte de ta navbar */
+}
+
+/* Corrige les ancres (#id) qui sont masquées lors du scroll */
+section, h1, h2, h3 {
+  scroll-margin-top: 70px;
+}
