@@ -23,8 +23,8 @@ type: "research"
 layout: "single"
 ---
 
-Understanding the selectivity of chiral membranes to chiral molecules. Separation of chiral molecules is a major challenge, since enantiomers have very similar chemical properties.
-In particular, there is always a compromise between good selecivity and quick process. 
+Separation of chiral molecules is a major challenge, since enantiomers have very similar chemical properties.
+In particular, there is always a compromise between good selectivity and quick process. 
  
 Membranes based on cellulose derivatives are good technologies to separate many chiral molecules.
 We use force-field Molecular Dynamics (MD) simulations to unveil the molecular mechanisms which allow such a good selectivity.

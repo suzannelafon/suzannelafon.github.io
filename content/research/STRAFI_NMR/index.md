@@ -24,3 +24,5 @@ layout: "single"
 ---
 
 
+How to measure diffusion in liquids using STRAFI-NMR?
+Details are described in the following publication "Stray-Field NMR: a powerful method to measure dynamics at the millisecond scale", which will be shortly available on Arxiv and HAL.
